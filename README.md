@@ -10,6 +10,6 @@ pip install requests
 pip instal os
 
 then specify the location of the script and run it by
-python website_hacker.py
+python website_hack.py
 
 Done!
